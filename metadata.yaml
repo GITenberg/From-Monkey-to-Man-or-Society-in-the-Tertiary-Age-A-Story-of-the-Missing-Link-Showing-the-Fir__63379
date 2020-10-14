@@ -1,0 +1,35 @@
+_repo: From-Monkey-to-Man-or-Society-in-the-Tertiary-Age-A-Story-of-the-Missing-Link-Showing-the-Fir__63379
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Heaton, H. R.
+    alias: Heaton, Harold R.
+    gutenberg_agent_id: '52414'
+    url: http://www.gutenberg.org/2009/agents/52414
+    wikipedia: https://en.wikipedia.org/wiki/Harold_R._Heaton
+creator:
+  author:
+    agent_name: Bierbower, Austin
+    birthdate: 1844
+    deathdate: 1913
+    gutenberg_agent_id: '52413'
+    url: http://www.gutenberg.org/2009/agents/52413
+description: ''
+gutenberg_issued: '2020-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63379'
+  lccn: '06023701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Prehistoric peoples -- Fiction'
+- GITenberg
+title: "From Monkey to Man, or, Society in the Tertiary Age\r\nA Story of the Missing\
+  \ Link, Showing the First Steps in Industry, Commerce, Government, Religion and\
+  \ the Arts; With an Account of the Great Expedition From Cocoanut Hill and the Wars\
+  \ in Alligator Swamp"
+url: http://www.gutenberg.org/ebooks/63379
