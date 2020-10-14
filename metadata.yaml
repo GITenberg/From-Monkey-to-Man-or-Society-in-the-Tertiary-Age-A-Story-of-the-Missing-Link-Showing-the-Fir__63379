@@ -7,6 +7,9 @@ contributor:
     gutenberg_agent_id: '52414'
     url: http://www.gutenberg.org/2009/agents/52414
     wikipedia: https://en.wikipedia.org/wiki/Harold_R._Heaton
+covers:
+- cover_type: archival
+  image_path: 63379-h/images/cover.jpg
 creator:
   author:
     agent_name: Bierbower, Austin
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '52413'
     url: http://www.gutenberg.org/2009/agents/52413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63379#From-Monkey-to-Man-or-Society-in-the-Tertiary-Age-A-Story-of-the-Missing-Link-Showing-the-Fir_
 gutenberg_issued: '2020-10-05'
 gutenberg_type: Text
 identifiers:
